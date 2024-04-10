@@ -8,3 +8,7 @@
 ![](lab3.PNG)
 
 ## [Solution](https://github.com/masudsajid/Database-Lab/blob/main/lab3.sql)
+## Lab4
+![](lab4.PNG)
+
+## [Solution](https://github.com/masudsajid/Database-Lab/blob/main/lab4.sql)
