@@ -16,3 +16,8 @@
 ![](lab5.PNG)
 
 ## [Solution](https://github.com/masudsajid/Database-Lab/blob/main/lab5.sql)
+## Lab6
+![](lab6_1.PNG)
+![](lab6_2.PNG)
+
+## [Solution](https://github.com/masudsajid/Database-Lab/blob/main/lab6.sql)
